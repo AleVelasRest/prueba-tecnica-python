@@ -1,3 +1,5 @@
+> Desarrollo de la prueba:
+> ![Desarrollo de la prueba](images/desarrollo-git.png)
 # Prueba Técnica: Backend Developer (Python & Architecture)
 
 ## Contexto de negocio
